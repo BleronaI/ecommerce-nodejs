@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cross-env DB_NAME=node-project  DB_USER=root DB_PASSWORD=1234 node app.js",
+    "start": "cross-env DB_NAME=bxbnqbkjf24dxlb9nyn3 DB_USER=uve9kyv5xmsf7ikz DB_PASSWORD=iNAoS1Z4LbUnpPbpjEPF DB_HOST=bxbnqbkjf24dxlb9nyn3-mysql.services.clever-cloud.com DB_PORT=3306 node app.js",
     "start:dev": "nodemon app.js"
   },
   "author": "",

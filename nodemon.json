@@ -1,7 +1,10 @@
 {
     "env" : {
-        "DB_NAME":"node-project",
-        "DB_USER":"root",
-        "DB_PASSWORD":"1234"
+        "DB_HOST":"bxbnqbkjf24dxlb9nyn3-mysql.services.clever-cloud.com",
+        "DB_PORT":"3306",
+        "DB_USER":"uve9kyv5xmsf7ikz",
+        "DB_PASSWORD":"iNAoS1Z4LbUnpPbpjEPF",
+        "DB_NAME":"bxbnqbkjf24dxlb9nyn3"
+        
     }
 }
