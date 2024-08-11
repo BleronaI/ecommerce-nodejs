@@ -1,0 +1,7 @@
+{
+    "env" : {
+        "DB_NAME":"node-project",
+        "DB_USER":"root",
+        "DB_PASSWORD":"1234"
+    }
+}
